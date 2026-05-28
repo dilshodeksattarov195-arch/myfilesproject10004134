@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpave",
+        "uuid": 4712760,
+        "checksum": "bu8dqp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
